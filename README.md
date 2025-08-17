@@ -1,6 +1,6 @@
 # Smart E-Waste Sorting System
 
-This project is a Smart E-Waste Sorting System that combines machine learning, Raspberry Pi, and Arduino Uno to automatically classify and sort electronic waste into the correct bins.
+This project is a Smart E-Waste Sorting System prorotype that combines machine learning, Raspberry Pi, and Arduino Uno to automatically classify and sort electronic waste into the correct bins.
 
 ## Project Overview
 -	A deep learning model is trained in Google Colab to classify different types of e-waste.
